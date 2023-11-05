@@ -8,4 +8,4 @@ Il y a pleins de paramètres à prendre en compte (pas de majuscules, pas d'espa
 
 Bien qu'il est possible d'utiliser du HTML, il est souvent plus simple de fonctionner avec les "Headings IDs".
 
-Par exemple, le titre `## Super titre 2` devient `#super-titre-2`, ce qui donne, pour le sommaire, le lien suivant `[Super titre 2](#super-titre-2)`
+Par exemple, le titre `## Super titre 2` devient `#super-titre-2`, ce qui donne, pour le sommaire, le lien suivant `[Super titre 2](#super-titre-2)`.
