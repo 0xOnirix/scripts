@@ -13,6 +13,14 @@ Bien qu'il est possible d'utiliser du HTML, il est souvent plus simple de foncti
 
 Par exemple, le titre `## Super titre 2` devient `#super-titre-2`, ce qui donne, pour le sommaire, le lien suivant `[Super titre 2](#super-titre-2)`.
 
+**Utilisation**
+
+`python3 md_title_converter.py "## Super titre 2"`
+
 ## evtx_viewer
 
 Ce script permet de visualiser les événements des fichiers .evtx dans une interface graphique multiplateforme. C'est une sorte d'observateur d'événement en Python.
+
+**Utilisation**
+
+`python3 evtx_viewer.py`
